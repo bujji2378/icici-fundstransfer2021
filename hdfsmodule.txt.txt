@@ -1,0 +1,9 @@
+iqdump 10.10.10.20
+
+<!-- Local hostname: lc1.example.com -->
+<!-- Connected to big3d at: ::ffff:10.10.10.10:4353 -->
+<!-- Subscribing to syncgroup: default -->
+<!-- Tue May 6 09:55:43 2014 -->
+<xml_connection>
+<version>11.5.1</version>
+<big3d>big3d Version 11.5.1.0.0.110</big3d>
